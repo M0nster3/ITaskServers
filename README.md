@@ -1,5 +1,5 @@
 # ITaskServers
-Bypass EDR Create TaskServers
+Bypass EDR Create TaskServer
 
 ## 1、前言
 
@@ -19,4 +19,4 @@ Delete Servers: ITaskServers.exe 1 ServerNmae
 
 [![zvNcjO.png](https://s1.ax1x.com/2022/12/24/zvNcjO.png)](https://imgse.com/i/zvNcjO)
 
-[![zvN4UA.png](/Users/Monster/Desktop/RedTeam/picture/zvN4UA.png)](https://imgse.com/i/zvN4UA)
+[![zvN4UA.png](/Users/Monster/Desktop/RedTeam/picture/zvN4UA-20221224212946322.png)](https://imgse.com/i/zvN4UA)
