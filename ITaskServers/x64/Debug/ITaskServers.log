@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\wangpengqi\Desktop\VScode\ITaskServers\ITaskServers\main.cpp(19,14): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  ITaskServers.vcxproj -> C:\Users\wangpengqi\Desktop\VScode\ITaskServers\x64\Debug\ITaskServers.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\wangpengqi\Desktop\VScode\ITaskServers\ITaskServers\main.cpp(19,14): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 96 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ITaskServers.vcxproj -> C:\Users\wangpengqi\Desktop\VScode\ITaskServers\x64\Release\ITaskServers.exe
